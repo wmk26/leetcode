@@ -1,0 +1,9 @@
+permutation_unre.cpp，使用非递归方式生成全排列；不断求解next_permutation；
+题目：https://leetcode.com/problems/permutations-ii/
+参考：https://leetcode.com/discuss/10609/a-non-recursive-c-implementation-with-o-1-space-cost
+
+permutation_kth.cpp，permutation sequence
+题目：https://leetcode.com/problems/permutation-sequence/
+参考：https://leetcode.com/discuss/11023/most-concise-c-solution-minimal-memory-required
+
+
