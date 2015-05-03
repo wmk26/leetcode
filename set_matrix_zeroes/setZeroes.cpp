@@ -24,7 +24,7 @@ class Solution{
                     matrix[i][j] = 0;
             }
             if(!col0)
-                matrix[i][0] == 0;
+                matrix[i][0] = 0;
         }
     }
 };
