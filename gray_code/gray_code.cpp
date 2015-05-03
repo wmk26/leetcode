@@ -6,7 +6,6 @@ class Solution{
     public:
     vector<int> grayCode(int n){
         int N(1 << n), tmp;
-        int temp = 2;
         vector<int> result;
         for(int i(0); i < N; i++){
             tmp = i << 1;
