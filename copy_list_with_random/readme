@@ -1,0 +1,5 @@
+reference:
+http://fisherlei.blogspot.com/2013/11/leetcode-copy-list-with-random-pointer.html
+http://tech-queries.blogspot.ca/2011/04/copy-linked-list-with-next-and-random.html
+
+注：主要参考第一个博客，但是其中有些小问题，比如没有考虑空链表的情况，以及只有一个节点情况下其random指针为空的情况，直接提交会发生Runtime Error错误；
